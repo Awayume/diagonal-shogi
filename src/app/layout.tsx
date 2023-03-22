@@ -1,6 +1,8 @@
 // SPDX-FileCopyrightText: 2023 Awayume <git@awayume.jp>
 // SPDX-License-Identifier: AGPL-3.0-only
 
+import './globals.scss';
+
 export const metadata = {
   title: '斜め将棋',
   author: 'Awayume',
